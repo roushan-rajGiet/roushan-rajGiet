@@ -1,6 +1,6 @@
 # Roushan Raj
 
-Full-Stack & AI/ML Engineer | B.Tech CSE '26 @ GIET University
+Full-Stack & AI/ML Developer | Computer Science Graduate
 
 ## About
 
@@ -17,14 +17,15 @@ I am a Computer Science student passionate about building scalable data-driven w
 
 ## Featured Projects
 
-* [mulberry-leaf-disease-prediction](https://github.com/roushan-rajGiet/mulberry-leaf-disease-prediction) - AI-powered real-time disease detection and leaf quality grading web application using MobileNetV2.
 * [desi-converter](https://github.com/roushan-rajGiet/desi-converter) - All-in-One containerized document & media processing platform (Next.js/NestJS/Docker).
+* [mulberry-leaf-disease-prediction](https://github.com/roushan-rajGiet/mulberry-leaf-disease-prediction) - AI-powered real-time disease detection and leaf quality grading web application using MobileNetV2.
+* [virtual-herbal-garden](https://github.com/roushan-rajGiet/virtual-herbal-garden) - Interactive 3D web application for exploring and learning about medicinal plants.
 * [business-sales-insight](https://github.com/roushan-rajGiet/business-sales-insight) - End-to-end data analytics and storytelling dashboard built using Power BI and SQL.
-* [blood-group-prediction](https://github.com/roushan-rajGiet/blood-group-prediction) - Machine learning classification system mapping fingerprint biometric patterns to blood group categories.
 
 ## Certifications
 
-*(Add relevant certifications here)*
+* PL-300
+* IBM Prompt Engineering
 
 ## Connect
 
